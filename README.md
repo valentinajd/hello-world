@@ -1,2 +1,2 @@
 # hello-world
-solo otro repositorio
+solo otro repositorio. hay dos ramas
